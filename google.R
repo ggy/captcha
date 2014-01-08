@@ -1,5 +1,6 @@
 library("biOps")
 library("FactoMineR")
+library("ade4")
 
 f<-function(n,x){}
 x <- readJpeg("./Data/google/image-3.jpeg")
